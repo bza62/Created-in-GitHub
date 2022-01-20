@@ -1,0 +1,1 @@
+Linux zbc-Legion-S7-15ACH6 5.13.0-25-generic #26~20.04.1-Ubuntu SMP Fri Jan 7 16:27:40 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
